@@ -144,7 +144,7 @@ Func MemoWrite($string)
 EndFunc
 
 Func Website()
-    ShellExecute("http://www.puhua.net/get_hbawin")
+    ShellExecute("http://www.puhua.net/Get-HBAWin")
 EndFunc
 
 #EndRegion Customer Functions
